@@ -1,0 +1,15 @@
+# Misc
+ipywidgets
+python-dotenv
+
+# Data Science package
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+
+# Deep models package
+sentence_transformers
+torch
+xformers
